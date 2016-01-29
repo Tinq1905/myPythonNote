@@ -23,7 +23,7 @@ This is it today. I will take a break and continuelly learning how to build web 
 ## 29th JAN
 I feel soooooo good for achieving an easy page by the knowledges I acquired yesterday, which allow user to sign in!
 
-I did it by observing the examples found in **bootstrap** website. The **href** help to redirect to another page and thanks to the great flask-wtf plug-in, __plugin again__the forms were built nicely.
+I did it by observing the examples found in **bootstrap** website. The **href** help to redirect to another page and thanks to the great flask-wtf plug-in, the forms were built nicely.
 
 It's rainy for all day. I love rain, but the fact that I have to spend my whole tomorrow in part-time job depresses me. I'm gonna keep recording my learning footsteps here.
 
