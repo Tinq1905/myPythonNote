@@ -28,3 +28,10 @@ I did it by observing the examples found in **bootstrap** website. The **href** 
 It's rainy for all day. I love rain, but the fact that I have to spend my whole tomorrow in part-time job depresses me. I'm gonna keep recording my learning footsteps here.
 
 Feel tired now, good night.
+
+## 30th JAN
+I'm gonna briefly conclude today. I learnt about `flash` and apply this useful function to a web page. The `flash` can be conviently used to deliver short info to users. I like this function.
+
+However, I don't really understand the justifiction of `redirect`, why we need this function? 
+
+Maybe I'll find out some details tomorrow!
