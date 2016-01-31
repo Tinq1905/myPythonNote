@@ -35,3 +35,8 @@ I'm gonna briefly conclude today. I learnt about `flash` and apply this useful f
 However, I don't really understand the justifiction of `redirect`, why we need this function? 
 
 Maybe I'll find out some details tomorrow!
+
+## 31th JAN
+Actually, this should be my python note, while I start to find that I love **bootstrap**. I almost spent the whole day playing with different bootstrap styles. They have lots of functions like `modal`, `jumbotron`, `textarea` and `button`. 
+
+The good news is that I am familier with `JS` `CSS` and `HTML`. They are all crucial for web development. But I'm quite sure that I want to be more than a web developer. So I decided to focus on python from tomorrow. According to my book, tomorrow I will go with SQL basic knowledge. I have learnt Oracle SQL before, so that it should be quite easy for me.
