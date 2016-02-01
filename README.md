@@ -49,3 +49,8 @@ So..I didn't continue my python learning today. So sad.
 However, I successfully install a linux distro on my computer and I'm using CLI to edit this file. If everything goes correctly, I will commit in here and this file will be synced in the website.
 
 This is it. A tired but relax day.
+
+By the way, git is Awesome!!!!!!!! 
+
+It's really a powerful tool to manage and learn codes. Github is just full of treasures for me. I `clone` the repo of the author and I can easily use `checkout` function to see the details of each version. That's more than great!!!!!
+I also leart how to use `commit` and `push` to push my local version to github. It's amazing!!!
