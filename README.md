@@ -40,3 +40,12 @@ Maybe I'll find out some details tomorrow!
 Actually, this should be my python note, while I start to find that I love **bootstrap**. I almost spent the whole day playing with different bootstrap styles. They have lots of functions like `modal`, `jumbotron`, `textarea` and `button`. 
 
 The good news is that I am familier with `JS` `CSS` and `HTML`. They are all crucial for web development. But I'm quite sure that I want to be more than a web developer. So I decided to focus on python from tomorrow. According to my book, tomorrow I will go with SQL basic knowledge. I have learnt Oracle SQL before, so that it should be quite easy for me.
+
+## 1th FEB
+I had a really tired day...I went shopping with my gf...I bought her a pair of heels.
+
+So..I didn't continue my python learning today. So sad.
+
+However, I successfully install a linux distro on my computer and I'm using CLI to edit this file. If everything goes correctly, I will commit in here and this file will be synced in the website.
+
+This is it. A tired but relax day.
